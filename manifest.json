@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "By Lunes Team",
+    "name": "Lunes Client Resource",
+    "uuid": "bdb66837-fd27-4ef5-a1fc-2e64fd680181",
+    "version": [
+      1,
+      18,
+      10
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "By Lunes Team",
+      "type": "resources",
+      "uuid": "4b59d5c0-7d06-4231-bbe1-2899e1d05baf",
+      "version": [
+        1,
+        18,
+        10
+      ]
+    }
+  ]
+}
